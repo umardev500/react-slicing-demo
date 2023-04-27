@@ -1,0 +1,69 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* font */
+.lobster {
+    font-family: "lobster two";
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../../../public/fonts/poppins/Poppins-Regular.ttf') format('truetype');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../../../public/fonts/poppins/Poppins-Medium.ttf') format('truetype');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../../../public/fonts/poppins/Poppins-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../../../public/fonts/poppins/Poppins-Bold.ttf') format('truetype');
+    font-weight: 700;
+}
+
+
+.poppins {
+    font-family: "Poppins";
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../../../public/fonts/roboto/Roboto-Regular.ttf') format('truetype');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../../../public/fonts/roboto/Roboto-Medium.ttf') format('truetype');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../../../public/fonts/roboto/Roboto-Bold.ttf') format('truetype');
+    font-weight: 700;
+}
+
+
+.roboto {
+    font-family: "Roboto";
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('../../../public/fonts/ubuntu/Ubuntu-Medium.ttf') format('truetype');
+    font-weight: 500;
+}
+.ubuntu {
+    font-family: "Ubuntu";
+}
