@@ -7,7 +7,7 @@ export const Home: React.FC = () => {
                 <h3 className="poppins px-4 text-center text-2xl lg:text-4xl font-medium text-gray-700">Warranty & Services</h3>
                 <div className="mt-20 px-4 xl:px-32 grid md:grid-cols-2 lg:grid-cols-3 gap-8">
                     {/* Item */}
-                    <a href="/" className="bg-white border rounded-lg hover:drop-shadow-xl">
+                    <a href="#" className="bg-white border rounded-lg hover:drop-shadow-xl">
                         <img src="thumbs/thumb-1.png" alt="thumb" />
                         <div className="px-9 py-7">
                             <h3 className="poppins text-gray-700 font-semibold text-lg">Warranty & maintenance</h3>
@@ -16,7 +16,7 @@ export const Home: React.FC = () => {
                             </p>
                         </div>
                     </a>
-                    <a href="/" className="bg-white border rounded-lg hover:drop-shadow-xl">
+                    <a href="#" className="bg-white border rounded-lg hover:drop-shadow-xl">
                         <img src="thumbs/thumb-2.png" alt="thumb" />
                         <div className="px-9 py-7">
                             <h3 className="poppins text-gray-700 font-semibold text-lg">24/7 Roadside Assistance</h3>
@@ -25,7 +25,7 @@ export const Home: React.FC = () => {
                             </p>
                         </div>
                     </a>
-                    <a href="/" className="bg-white border rounded-lg hover:drop-shadow-xl">
+                    <a href="#" className="bg-white border rounded-lg hover:drop-shadow-xl">
                         <img src="thumbs/thumb-3.png" alt="thumb" />
                         <div className="px-9 py-7">
                             <h3 className="poppins text-gray-700 font-semibold text-lg">Financial service</h3>
