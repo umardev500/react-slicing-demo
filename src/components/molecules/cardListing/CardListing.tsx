@@ -1,5 +1,5 @@
 import React from 'react'
-import { type Card } from '../../../types/card'
+import { type Card } from '../../../types'
 
 interface Props extends Card {}
 

@@ -1,6 +1,6 @@
 import React from 'react'
 import data from './data.json'
-import { CardList } from '../../components/organisms/cardList/CardList'
+import { CardList } from '../../components'
 
 export const Home: React.FC = () => {
     return (
